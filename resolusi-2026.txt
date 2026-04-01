@@ -2,5 +2,5 @@ Resolusi 2026
 1. Mulai lagi belajar programming
 2. Percepat belajar programming
 3. Fokus belajar Web development
-4. Mulai ulang belajar GIT
 5. Belajar javaScript
+6. Belajar Bootstrap
